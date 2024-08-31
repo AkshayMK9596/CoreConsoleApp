@@ -8,6 +8,7 @@ class Class1
         Console.WriteLine("Enter name");
         string name = Console.ReadLine(); //green wavy lines ==> denotes warnings
         Console.WriteLine($"Hi {name}"); //String Interpolation 
+        Console.WriteLine("Helllo....");
 
     }
 }
